@@ -1,5 +1,4 @@
 ##**VISUALIZER**
-<div align="center">
 
 # 📊 SALES DATA ANALYSIS
 
