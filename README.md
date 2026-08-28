@@ -408,6 +408,7 @@ This helps understand the central tendency and spread of sales values.
 ---
 
 # 🏗️ PROJECT STRUCTURE
+<img width="2074" height="2924" alt="project_architecture_overview" src="https://github.com/user-attachments/assets/fc4a06cc-b984-45e6-b2a3-849fccaf935c" />
 
 ```text
 📦 Sales-Data-Analysis
