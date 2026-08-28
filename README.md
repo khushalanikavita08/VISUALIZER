@@ -657,6 +657,9 @@ Through this project, I practiced:
 > 🚀 **This project helped connect individual Python concepts into one practical real-world workflow.**
 
 ---
+## 🟢**sample output**
+<img width="2000" height="2890" alt="project_output_summary (2)" src="https://github.com/user-attachments/assets/454837dc-b8fb-4990-a191-3cf89a5a362f" />
+
 
 # 🌱 FUTURE IMPROVEMENTS
 
@@ -691,6 +694,7 @@ Add machine-learning-based sales prediction.
 Connect the project with SQL databases for larger datasets.
 
 ---
+
 
 # 🤝 CONTRIBUTING
 
