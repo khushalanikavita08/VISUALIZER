@@ -658,7 +658,7 @@ Through this project, I practiced:
 
 ---
 ## 🟢**sample output** 
-<img width="2000" height="3009" alt="project_output_summary (3)" src="https://github.com/user-attachments/assets/e42cda4a-81b3-4bc4-8bc2-6aba811fe693" />
+<img width="2000" height="3009" alt="project_output_summary (5)" src="https://github.com/user-attachments/assets/d319bcbd-7006-416e-8729-577ea962cc01" />
 
 
 
