@@ -657,8 +657,9 @@ Through this project, I practiced:
 > 🚀 **This project helped connect individual Python concepts into one practical real-world workflow.**
 
 ---
-## 🟢**sample output**
-<img width="2000" height="2890" alt="project_output_summary (2)" src="https://github.com/user-attachments/assets/454837dc-b8fb-4990-a191-3cf89a5a362f" />
+## 🟢**sample output** 
+<img width="2000" height="3009" alt="project_output_summary (3)" src="https://github.com/user-attachments/assets/e42cda4a-81b3-4bc4-8bc2-6aba811fe693" />
+
 
 
 # 🌱 FUTURE IMPROVEMENTS
